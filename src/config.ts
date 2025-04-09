@@ -3,7 +3,7 @@ export const SITE = {
   author: "Hakuna",
   profile: "",
   desc: "Balabababa",
-  title: "AstroPaper",
+  title: "HakunaMatata",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
